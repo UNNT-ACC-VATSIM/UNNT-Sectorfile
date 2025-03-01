@@ -29,7 +29,7 @@ body:
       label: Ожидаемые преимущества
       description: Как ваше предложение улучшит работу или сделает её более удобной? Укажите конкретные примеры, если это возможно.
     validations:
-      required: true
+      required: false
   - type: textarea
     id: implementation
     attributes:
