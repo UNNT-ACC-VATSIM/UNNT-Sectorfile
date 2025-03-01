@@ -1,0 +1,49 @@
+name: 🐞 Bug report
+description: Report found issue
+labels: ["🚨 Bug"]
+title: "[🚨] "
+assignees: ["banan1442,mednoy"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hello! Thank you for reporting an issue.
+       
+        Before reporting, please also check existing issues in this repository - you can filter them by "bug" label (also check closed ones).
+        
+  - type: input
+    id: id
+    attributes:
+      label: Your Vatsim CID
+      description: It is your Vatsim login. Required for us to contact you in Discord if you're there.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Sector version
+      description: Please include sector version - you can find it in the releases
+      placeholder: For example, 0.1.1
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Describe your issue
+      description: Please tell us what's happening, what is expected and actual result. Include some screenshots and videos if there are some!
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: Reproduction steps
+      description: Please describe how can we reproduce this issue - even if it's obvious. If your issue relates to some controller or specific user, include callsign(s) and cid(s). If it's hard to reproduce, a video would be nice to see.
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional info
+      description: Is there something additional we need to know? Please tell us!
+    validations:
+      required: false
