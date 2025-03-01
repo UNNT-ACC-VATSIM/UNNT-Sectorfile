@@ -23,7 +23,7 @@ body:
     attributes:
       label: Версия сектора
       description: Укажите версию сектора — вы можете найти её в релизах GNG.
-      placeholder: Например, 4.1.7 | v5 (узнать версию - https://files.aero-nav.com/UNNT VERSION)
+      placeholder: Версия 4.1.7 | v5 (версию можно узнать в поле Version на GNG)
     validations:
       required: true
   - type: textarea
