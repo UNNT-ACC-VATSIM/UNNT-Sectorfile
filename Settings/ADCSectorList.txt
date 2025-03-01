@@ -1,0 +1,14 @@
+ADCS
+m_Visible:0
+m_X:277
+m_Y:260
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:RUNW:4:1:47:19:19:1::::1:0.0
+m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
+m_Column:ATYP:4:1:16:0:0:1::::1:0.0
+m_Column:COPX:5:0:51:21:21:1::::1:0.0
+m_Column:STS:4:1:59:46:46:1::::1:0.0
+END
