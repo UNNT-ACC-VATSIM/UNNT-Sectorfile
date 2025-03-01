@@ -10,7 +10,7 @@
 ⚠️ Релизы, размещенные на GitHub, **не** содержат всех необходимых файлов для sector file.  
 
 # Ошибки, обратная связь и предложения  
-Если вы обнаружили ошибки или у вас есть предложения по сектор файлу, создайте issue на GitHub – [Создать Issue (тык)]([https://github.com/UNNT-ACC-VATSIM/UNNT-Sectorfile/issues/new](https://github.com/UNNT-ACC-VATSIM/UNNT-Sectorfile/issues/new/choose))  
+Если вы обнаружили ошибки или у вас есть предложения по сектор файлу, создайте issue на GitHub – [Создать Issue (тык)](https://github.com/UNNT-ACC-VATSIM/UNNT-Sectorfile/issues/new/choose)  
 Это касается любых аспектов sector file, даже если они не поддерживаются напрямую в GitHub, например, ATIS или Audio For Vatsim.  
 
 # Разработчики Sectorfile  
