@@ -1,0 +1,39 @@
+Setup_AutoSignIn=1
+
+//Scale factor for the Global Menu
+System_GUI_Scale_GlobalMenu=1
+
+//Scale factor for the plugin windows
+System_GUI_Scale_Windows=1.1
+
+//Scale factor for the plugin menus
+System_GUI_Scale_Menus=1
+
+//Change for own METAR/TAF source
+HTTP_METAR_Server=https://api.open-meteo.com/v1/forecast?latitude=55&longitude=82&hourly=precipitation&timezone=auto&forecast_days=1
+HTTP_METAR_Data_Prefix=<raw_text>
+HTTP_METAR_Data_Suffix=</raw_text>
+HTTP_TAF_Server=https://api.open-meteo.com/v1/forecast?latitude=55&longitude=82&hourly=precipitation&timezone=auto&forecast_days=1
+HTTP_TAF_Data_Prefix=<raw_text>
+HTTP_TAF_Data_Suffix=</raw_text>
+
+
+HTTP_GRIB_Latitude_Max=66
+HTTP_GRIB_Latitude_Min=39.9
+HTTP_GRIB_Longitude_Max=104.5
+HTTP_GRIB_Longitude_Min=59.5
+
+
+WXR_DisplayType=0
+WXR_Brightness=100
+WXR_Gain=100
+WXR_Echo_dBZ_Hi=50
+WXR_Echo_dBZ_Med=30
+WXR_Echo_dBZ_Lo=20
+WXR_Latitude=55
+WXR_Latitude_Max=66
+WXR_Latitude_Min=39.9
+WXR_Longitude=82
+WXR_Longitude_Max=104.5
+WXR_Longitude_Min=59.5
+WXR_ImageSize=512
