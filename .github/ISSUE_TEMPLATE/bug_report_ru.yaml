@@ -2,7 +2,7 @@ name: 🐞 Баг-репорт
 description: Сообщите о найденной проблеме
 labels: ["🚨 Bug"]
 title: "[🚨] "
-assignees: ["banan1442,mednoy"]
+assignees: [""]
 body:
   - type: markdown
     attributes:
@@ -22,8 +22,8 @@ body:
     id: version
     attributes:
       label: Версия сектора
-      description: Укажите версию сектора — вы можете найти её в релизах.
-      placeholder: Например, 0.1.1
+      description: Укажите версию сектора — вы можете найти её в релизах GNG.
+      placeholder: Например, 4.1.7 | v5 (узнать версию - https://files.aero-nav.com/UNNT VERSION)
     validations:
       required: true
   - type: textarea
