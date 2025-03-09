@@ -239,3 +239,6 @@ Airport_MagVar=7
 
 [UNSS]
 Airport_MagVar=15
+
+[UNNE]
+Airport_MagVar=9
