@@ -26,6 +26,9 @@ Vector_FplSep_Font=EuroScope
 Vector_MinSep_Font=EuroScope
 Vector_QDM_Font=EuroScope
 
+System_UseAUP=1
+HTTP_AUP_URL=https://unnt-acc-vatsim.github.io/Areas/output.json
+
 Setup_COOPANS=1
 
 
@@ -52,6 +55,7 @@ APW_AlertSound_Filter
 APW_UseCFL=1
 
 Areas_NOTAM_Activation=1
+Areas_AUP_Activation=1
 
 Window_QNHTL=1
 Window_NOTAM=1
