@@ -39,6 +39,10 @@ Airspace_No_DUPE_Codes=7700,7600,7500
 Airspace_SIGMET_Areas=UNNT
 Airspace_NOTAM_Add=UNNT
 
+Window_ASM=1,250,100,675,400
+Window_ASM_Chars_Name=9
+Window_ASM_Chars_MapText=25
+
 Malrt_Misap=G/A
 Malrt_Inbound_EST=EST
 Malrt_Irregular=OOC
