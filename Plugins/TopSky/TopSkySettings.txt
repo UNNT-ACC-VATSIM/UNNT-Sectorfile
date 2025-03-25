@@ -280,7 +280,7 @@ Shortcut_Map_Xfr_Key=3,0x47 ; G
 Shortcut_Map_Xfr_Key=4,0x4E ; N
 
 Shortcut_Map_Target=1,UNNT\UNNT_VFR
-Shortcut_Map_Target=2,UNNT\SMAA1
+Shortcut_Map_Target=2,SMAA\UNBG
 Shortcut_Map_Target=3,AERODROMS\PODPISI
 Shortcut_Map_Target=4,VFR\NP
 
