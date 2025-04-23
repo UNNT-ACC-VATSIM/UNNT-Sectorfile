@@ -1,13 +1,13 @@
 Setup_AutoSignIn=1
 
 //Scale factor for the Global Menu
-System_GUI_Scale_GlobalMenu=1
+//System_GUI_Scale_GlobalMenu=1
 
 //Scale factor for the plugin windows
-System_GUI_Scale_Windows=1.1
+//System_GUI_Scale_Windows=1.1
 
 //Scale factor for the plugin menus
-System_GUI_Scale_Menus=1
+//System_GUI_Scale_Menus=1
 
 //Change for own METAR/TAF source
 HTTP_METAR_Server=https://api.open-meteo.com/v1/forecast?latitude=55&longitude=82&hourly=precipitation&timezone=auto&forecast_days=1
