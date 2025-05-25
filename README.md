@@ -1,4 +1,4 @@
-# UNNT-Sectorfile | <a href="https://files.aero-nav.com/UNNT"><img src="https://shields.microej.com/badge/Версия сектора-4.1.7%20%7C%20v5-brightgreen" alt="Sector Version" width="220" align="center"><a/>
+# UNNT-Sectorfile | <a href="https://files.aero-nav.com/UNNT"><img src="https://shields.microej.com/badge/Версия сектора-4.1.8%20%7C%20v7-brightgreen" alt="Sector Version" width="220" align="center"><a/>
 Плагины и конфигурации для сектор-файла РегЦ Новосибирск.
 
 Этот репозиторий содержит файлы, которые не создаются автоматически нашим провайдером сектор-файла – AeroNav GNG.  
