@@ -37,7 +37,6 @@ Track_HistoryDots_GND=2
 Track_PredictionLine_TWR=1
 Track_PredictionLine_APP=1
 
-Window_APP_Scale=17
 GroundLabel=1
 // ==============STATE===================
 
