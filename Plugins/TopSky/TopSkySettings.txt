@@ -67,7 +67,8 @@ Window_QNHTL=3,0,890
 Window_NOTAM=3,0,1100
 
 Color_Assumed=0,0,0
-Color_Concerned=6,19,132 // was - 20,22,54
+Color_Concerned=6,19,132 
+// was - 20,22,54
 Color_Unconcerned=80,80,80
 Color_Unknown=239,224,42
 Color_Redundant=6,19,132
@@ -294,3 +295,4 @@ Window_MsgOut=1,5,130
 Window_ATCmsg=1,1650,200
 Window_MsgIn=1,5,50
 Window_MsgOut=1,5,130
+
