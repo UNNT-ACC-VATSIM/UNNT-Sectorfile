@@ -124,8 +124,8 @@ TopSky plugin:ACList/Secondary VFR List/m_Resizable:1
 TopSky plugin:ACList/Secondary VFR List/m_OrderingColumn:1
 TopSky plugin:ACList/Secondary VFR List/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Secondary VFR List/m_Column_1:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
-Euroscope timers plugin:x:1829
-Euroscope timers plugin:y:965
+Euroscope timers plugin:x:1809
+Euroscope timers plugin:y:978
 CCAMS:ACList/Mode S EHS/m_Visible:0
 CCAMS:ACList/Mode S EHS/m_X:1065
 CCAMS:ACList/Mode S EHS/m_Y:54
